@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>Web-студия Nёrds</title>
+  </head>
+  <body>
+    <header class="main-header">
+      <nav class="main-navigation">
+        <a class="main-header-logo" href="index.html">
+          <img src="img/index-logo.svg" width="#" height="#" alt="Логотип Web-студиb Nёrds ">
+        </a>
+        <ul class="site-navigation">
+     <li><a href="studio.html">Студия</a></li>
+     <li><a href="clientage.html">Клиенты</a></li>
+     <li class="site-navigation-current"><a href="shops.html">Магазины</a></li>
+     <li><a href="contacts.html">Контакты</a></li> 
+        </ul>
+     <div class="btn">
+        <a class="btm" href="#">Корзина</a>
+     </div>
+      </nav>
+   </header>
+   <main class="container">
+        <h1 charset="page-title">Магазин готовых шаблонов</h1>
+        <ul class="sorting">
+           <h4>Сортировать</h4>
+     <li class="sorting-list">по цене</li> 
+     <li class="sorting-list-current">по типу</li> 
+     <li class="sorting-list-current">по названию</li> 
+   <section class="filters">
+      <h2 class="visually-hidden">Фильтры товаров</h2>
+      <!--Здесь будет форма--!>  
+   </section>
+   <section class="catalog">
+       <h2 class="visually-hidden"> Каталог товаров студии</h2>
+       <ul class="catalog-list">
+     <li class="catalog-item">
+        <a class="catalog-item.html">
+        <img src="img/#.svg" width="#" height="#" alt="первый пункт каталога">
+        </a>
+     </li> 
+     <li class="catalog-item">
+        <a class="catalog-item.html">
+        <img src="img/#.svg" width="#" height="#" alt="второй пункт каталога">
+        </a>
+     </li> 
+     <li class="catalog-item">
+        <a class="catalog-item.html">
+        <img src="img/#.svg" width="#" height="#" alt="третий пункт каталога">
+        </a>
+     </li> 
+     <li class="catalog-item">
+        <a class="catalog-item.html">
+        <img src="img/#.svg" width="#" height="#" alt="четвертый пункт каталога">
+        </a>
+     </li>  
+     <li class="catalog-item">
+        <a class="catalog-item.html">
+        <img src="img/#.svg" width="#" height="#" alt="пятый пункт каталога">
+        </a>
+     </li>
+     <li class="catalog-item">
+        <a class="catalog-item.html">
+        <img src="img/#.svg" width="#" height="#" alt="шестой пункт каталога">
+        </a>
+     </li>  
+        </ul>
+        <div class="purchase site">
+           <h4>Sedona</h4>
+           <p>Информационный сайт<br>
+              для туристов</p>  
+        <a class="button" href="purchase site.html">9900 руб</a>
+        <ul class="pagination-list">
+     <li class="pagination-item-current">
+        <a href="#">1</a>
+     </li>
+     <li class="pagination-item">
+        <a href="#">2</a>
+     </li>
+     <li class="pagination-item">
+        <a href="#">3</a>
+     </li>
+     <li class="pagination-item">
+        <a href="#">следующая</a>
+     </li>
+        </ul>
+    <div class="map">
+      </div>
+    <section class="contacts">
+     <h2>NЁRDS DESIGN STUDIO</h2>   
+     <p>191186, Санкт-Петербург,<br>
+        ул.Б.Конюшенная, д.19/8<br>
+        тел.+7(812)275-75-75</p>
+      <a class="button" href="contacts.html">Напишите нам</a>
+    </section>
+ </main>   
+    <footer class="main-footer">
+    <div class="footer-social">
+     <a class="social-button" href="#">Вконтакт</a>   
+     <a class="social-button" href="#">Фейсбук</a>
+     <a class="social-button" href="#">Инстаграм</a> 
+    </div>
+      <p><b>Давайте дружить, это выгодно!<b><br>
+            Скидка 10% для друзей из социальных сетей.</p> 
+    </footer>                    
+  </body>
+</html>
